@@ -1,0 +1,16 @@
+{
+  "name": "react-course-midudev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Repository for different projects created following the Midudev React.js course",
+  "workspaces": [
+    "projects/hello-world",
+    "projects/twitter-follow-card"
+  ]
+}
